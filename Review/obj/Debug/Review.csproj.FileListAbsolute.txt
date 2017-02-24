@@ -1,0 +1,6 @@
+C:\Projects\Git\Review\Review\bin\Debug\Review.exe.config
+C:\Projects\Git\Review\Review\obj\Debug\Review.csprojResolveAssemblyReference.cache
+C:\Projects\Git\Review\Review\bin\Debug\Review.exe
+C:\Projects\Git\Review\Review\bin\Debug\Review.pdb
+C:\Projects\Git\Review\Review\obj\Debug\Review.exe
+C:\Projects\Git\Review\Review\obj\Debug\Review.pdb
